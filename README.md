@@ -123,4 +123,4 @@
 
 ---
 
-<div align="center"><sub>Synced automatically with <a href="https://github.com/NINJA981/leetcode-submissions">LeetSync Squads</a></sub></div>
+<div align="center"><sub>Synced automatically with <a href="https://github.com/Mano2409/leetcode-submissions">LeetX Squads</a></sub></div>
