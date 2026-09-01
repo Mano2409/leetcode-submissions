@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Mano2409/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-109-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-110-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -61,6 +61,7 @@
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Python`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.py) |
 | 387 | [First Unique Character In A String](Easy/0387-first-unique-character-in-a-string/) | `Easy` | [`Python`](Easy/0387-first-unique-character-in-a-string/first-unique-character-in-a-string.py) |
 | 389 | [Find The Difference](Easy/0389-find-the-difference/) | `Easy` | [`Python`](Easy/0389-find-the-difference/find-the-difference.py) |
+| 410 | [Split Array Largest Sum](Hard/0410-split-array-largest-sum/) | `Hard` | [`Python`](Hard/0410-split-array-largest-sum/split-array-largest-sum.py) |
 | 415 | [Add Strings](Easy/0415-add-strings/) | `Easy` | [`Python`](Easy/0415-add-strings/add-strings.py) |
 | 434 | [Number Of Segments In A String](Easy/0434-number-of-segments-in-a-string/) | `Easy` | [`Python`](Easy/0434-number-of-segments-in-a-string/number-of-segments-in-a-string.py) |
 | 451 | [Sort Characters By Frequency](Medium/0451-sort-characters-by-frequency/) | `Medium` | [`Python`](Medium/0451-sort-characters-by-frequency/sort-characters-by-frequency.py) |
