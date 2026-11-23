@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-**144** problems solved — 83 easy · 57 medium · 4 hard
+**145** problems solved — 83 easy · 58 medium · 4 hard
 
 | # | Problem | Difficulty | Solution | Notes |
 | ---: | :--- | :--- | :--- | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](Easy/0001-two-sum/two-sum.py) |  |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Python](Medium/0002-add-two-numbers/add-two-numbers.py) |  |
 | 4 | [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Python](Hard/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |  |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](Easy/0009-palindrome-number/palindrome-number.py) |  |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](Medium/0011-container-with-most-water/container-with-most-water.py) |  |
